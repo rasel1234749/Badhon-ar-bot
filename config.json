@@ -13,7 +13,7 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "[ ^ ]—͞💜 𝐌𝐄𝐋𝐈𝐒𝐒𝐀 𝐁𝐀𝐁𝐘 𝐁𝐎𝐓",
-  "prefix": "^",
+  "prefix": "/",
   "api": "https://api.noobs-api.rf.gd/dipto",
   "approval": false,
   "reactBy": {
@@ -31,13 +31,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-      "",
+      "61584325063622",
 	  "",
 	  "",
 	  ""
   ],
   "developers": [
-    "",
+    "61584325063622",
     "",
     ""
   ],
@@ -50,7 +50,7 @@
     ]
   },
   "premium": [
-    "",
+    "61584325063622",
     "",
     "",
     ""
